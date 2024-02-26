@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
-  publicPath: '/vue-pages/'
+  publicPath: '/Vue2-form-with-Vuelidate-Scss/'
 })
